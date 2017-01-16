@@ -1,3 +1,4 @@
 Ciao ciao
-void main {
+void main() {
+	prova prova prova
 }
